@@ -1,0 +1,4 @@
+A Simple Ruby teleprompter using the shoes ruby framework.
+Pick a text file then a number for speed and a number for text size and you are off.
+
+usage shoes teleprompter.rb
